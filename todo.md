@@ -1,5 +1,5 @@
 ### Git
-share the codes on local to this repository.
+- share the codes on local to this repository.
 
 ### Materials
 - atcoder
