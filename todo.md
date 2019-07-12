@@ -10,3 +10,6 @@
 ### Atom
 - how to clone(?) from Atom the editer...
 - create a new repository (not atcoder!) and upload gui.py; lifelogger as my tutorial to the wxPython.
+
+### Language
+If I'll try some coding tasks with other language but python3, how I manage sub-directories in a repository...?
